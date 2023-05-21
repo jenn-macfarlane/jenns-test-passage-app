@@ -4,6 +4,8 @@ This is a React app playing around with the ✨amazing✨ capabilites of the Pas
 
 # How to build and run this app
 
+0. Add the App ID from the Passage Console into an `.env` file
+
 1. Install dependencies
 
 ```zsh
